@@ -1,0 +1,24 @@
+{
+  "name": "mini-message-board",
+  "version": "1.0.0",
+  "description": "mini project for the odin project course",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MgeeN0/mini-message-board.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MgeeN0/mini-message-board/issues"
+  },
+  "homepage": "https://github.com/MgeeN0/mini-message-board#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
+}
